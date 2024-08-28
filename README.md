@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Project Img](https://github.com/user-attachments/assets/78e2eeaa-7f17-47ed-a7bc-ebe60c0e816a)
+
 This project is a simple assembly language program that searches for a user-entered number in a predefined array. The program is written in x86 assembly language and runs on a DOS environment. The purpose is to demonstrate basic input/output operations and array processing in assembly language.
 
 ## Author
